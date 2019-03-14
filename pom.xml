@@ -6,7 +6,11 @@
 
     <groupId>com.demo</groupId>
     <artifactId>gupao</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>gupao-plugin</module>
+    </modules>
 
 
 </project>
